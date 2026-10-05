@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm 🇸​🇺​🇩​🇮​🇵​ 🇧​🇦​🇳​🇮​🇰​ </h1>
 <h3 align="center">Android Developer | Kotlin • Jetpack Compose</h3>
 
 <p align="center">
