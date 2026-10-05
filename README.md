@@ -12,7 +12,6 @@
 - 📱 I build modern Android apps with **Kotlin** and **Jetpack Compose**
 - 🧱 Architecture: MVVM, Clean Architecture, Hilt, Coroutines & Flow
 - 🌱 Currently learning: Compose Multiplatform / KMP
-- 📫 Reach me: [email](sudipbanik42@gmail.com) · [LinkedIn](www.linkedin.com/in/sudip-banik-7b7497243)
 
 ## 🛠 Tech stack
 <p>
@@ -29,6 +28,6 @@
 
 ## 📌 Featured projects
 | Project | Description | Stack |
-|---|---|---|
-| [MyApp](https://github.com/USERNAME/MyApp) | Short description | Kotlin, Compose, Room |
-| [WeatherApp](https://github.com/USERNAME/WeatherApp) | Short description | Compose, Retrofit, Hilt |
+|---|---|-[--|
+| [MyApp](https://github.com/USERNAME/MyApp](https://github.com/SUDIP-7U/LazyGrid-sell-column-2-and-SelectiveCardOulinedRedBorder.git)) | Short description | Kotlin, Compose, Room |
+| [WeatherApp]([https://github.com/USERNAME/WeatherApp](https://github.com/SUDIP-7U/LazyGrid-sell-column-2-and-SelectiveCardOulinedRedBorder.git)) | Short description | Compose, Retrofit, Hilt |
