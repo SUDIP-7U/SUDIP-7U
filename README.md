@@ -11,7 +11,7 @@
 ## 🚀 About me
 - 📱 I build modern Android apps with **Kotlin** and **Jetpack Compose**
 - 🧱 Architecture: MVVM, Clean Architecture, Hilt, Coroutines & Flow
-- 🌱 Currently learning: Compose Multiplatform / KMP
+- 🌱 Currently learning: Jetpack Compose UI Toolkit for Modern Application Development 2027-28
 
 ## 🛠 Tech stack
 <p>
