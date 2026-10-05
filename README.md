@@ -12,7 +12,7 @@
 - 📱 I build modern Android apps with **Kotlin** and **Jetpack Compose**
 - 🧱 Architecture: MVVM, Clean Architecture, Hilt, Coroutines & Flow
 - 🌱 Currently learning: Compose Multiplatform / KMP
-- 📫 Reach me: [email](mailto:you@example.com) · [LinkedIn](https://linkedin.com/in/USERNAME)
+- 📫 Reach me: [email](sudipbanik42@gmail.com) · [LinkedIn](www.linkedin.com/in/sudip-banik-7b7497243)
 
 ## 🛠 Tech stack
 <p>
